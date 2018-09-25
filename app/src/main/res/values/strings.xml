@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_string">Item name</string>
+    <string name="title_string">Create To Do Item</string>
+    <string name="description_string">Description</string>
+    <string name="additional_string">Additional info</string>
+    <string name="date_string">Select due date</string>
+    <string name="save_string">Save</string>
+    <string name="alert_title">Todo Item Missing Information</string>
+    <string name="additional_info_title">Additional Info</string>
+</resources>
